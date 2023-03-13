@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/Susul-1312/firstSqlProject#readme",
   "dependencies": {
-    "sqlite3": "^5.1.4"
+    "sqlite3": "^5.1.5"
   }
 }
